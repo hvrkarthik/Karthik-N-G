@@ -2,7 +2,7 @@
 
 👀 Interested in Software Development 
 
-💪 Devoted to Advancing Expertise in Mobile App Development
+💪 I have a strong passion for mobile app development
 
 🌱 Currently, React Native developer
 
