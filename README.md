@@ -18,8 +18,4 @@ I am a dedicated React Native developer with nearly 2 years of experience in dev
 
 **[LinkedIn](https://www.linkedin.com/in/karthik-n-g-84aa071a2)**
 
-**[GitHub](https://github.com/hvrkarthik)**
-
----
-
 Feel free to explore my projects and connect with me.
