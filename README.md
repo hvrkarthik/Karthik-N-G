@@ -10,7 +10,7 @@ I am a dedicated React Native developer with nearly 2 years of experience in dev
 
 **React Native**: Cross-Platform (Android & iOS), Pixel-perfect UI, Responsive Design, State Management, API Integration, Authentication, Theming, Push Notifications, Offline Functionality, Payment Gateway Integration, Camera & Image Handling, Geolocation, Animations, Map Integration, Firebase Integration, GraphQL, Expo CLI, Expo Application Services.
 
-**Languages**: JavaScript (ES6+), TypeScript, Java, Kotlin.
+**Languages**: JavaScript (ES6+), TypeScript, Java, Kotlin, Swift
 
 **Tools**: Android Studio, Xcode, Visual Studio Code.
 
