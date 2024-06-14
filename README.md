@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Karthik N G
 
-**React Native Developer | Full SDLC Proficiency | JavaScript & TypeScript Expert**
+**React Native Developer | Full SDLC Proficiency | JavaScript & TypeScript**
 
 I am a dedicated React Native developer with nearly 2 years of experience in developing, deploying, and testing mobile applications. I hold a master's degree in computer science and have a strong foundation in algorithms and data structures. I'm passionate about mobile app development and always eager to learn new technologies.
 
