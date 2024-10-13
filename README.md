@@ -14,12 +14,12 @@ I am a dedicated React Native developer with nearly 2 years of industry level pr
 
 **Tools**: Android Studio, Xcode, Visual Studio Code.
 
-### 📫 Let's Connect
-
-**[LinkedIn](https://www.linkedin.com/in/karthik-n-g-84aa071a2)**
-
 **[Google Play](https://play.google.com/store/apps/dev?id=5651179935012434288&hl=en_US)**
 
 **[Amazon Appstore](https://www.amazon.com/Apps-Games-Karthik-N-G/s?rh=n%3A2350149011%2Cp_4%3AKarthik+N+G)**
+
+### 📫 Let's Connect
+
+**[LinkedIn](https://www.linkedin.com/in/karthik-n-g-84aa071a2)**
 
 Feel free to explore my personal projects and connect with me.
