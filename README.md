@@ -8,7 +8,7 @@ I am a dedicated React Native developer with 2 years of industry level projects 
 
 **Technologies**: React Native(Android/iOS), Native Android development, React, Node.js, Express.js
 
-**Languages**: JavaScript (ES6+), TypeScript, Java, Kotlin, Swift
+**Languages**: JavaScript, TypeScript, Java, Kotlin, Swift
 
 **Database**: MySQL, MongoDB
 
