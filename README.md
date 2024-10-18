@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Karthik N G
 
-I am a dedicated React Native developer with 2 years of industry level projects experience in developing, deploying, and testing mobile applications. I hold a master's degree in computer science and have a strong foundation in algorithms and data structures. I'm passionate about mobile app development and always eager to learn new technologies.
+I am a dedicated Software Developer with 2 years of industry level projects experience in developing, deploying, and testing mobile applications. I hold a master's degree in computer science and have a strong foundation in algorithms and data structures. I'm passionate about mobile app development and always eager to learn new technologies.
 
 ---
 
