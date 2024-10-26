@@ -17,7 +17,7 @@ Integration, Firebase Integration, Third-Party Libraries, Performance Optimizati
 
 ### 📱 Published Apps
 
-This apps are published initial days just to explore the process of app publishing.
+This basic apps are published initial days just to explore the process of app publishing.
 
 **[Google Play](https://play.google.com/store/apps/dev?id=5651179935012434288&hl=en_US)**
 
