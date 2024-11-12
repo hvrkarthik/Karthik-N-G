@@ -27,4 +27,6 @@ This basic apps are published initial days just to explore the process of app pu
 
 **[LinkedIn](https://www.linkedin.com/in/karthik-n-g-84aa071a2)**
 
+**[Stackoverflow](https://stackoverflow.com/users/17382831)**
+
 Feel free to explore my personal projects and connect with me.
