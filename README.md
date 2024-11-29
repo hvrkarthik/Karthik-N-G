@@ -37,3 +37,5 @@ This basic apps are published college/initial days just to explore the process o
 **[LinkedIn](https://www.linkedin.com/in/karthik-n-g-84aa071a2)**
 
 **[Stackoverflow](https://stackoverflow.com/users/17382831)**
+
+If you're seeking a skilled mobile app developer, feel free to reach out if you'd like to see my CV or discuss how we can work together. open to new opportunities for freelancing, including development, knowledge transfer, code reviews, and more.
