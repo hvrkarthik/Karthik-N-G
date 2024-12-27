@@ -17,20 +17,14 @@ Dedicated software developer with industry experience in developing, deploying, 
 
 #### **Native Android Development**
 
+#### **Flutter**
+
 ### 🌐 **Web/Other Technologies**
-- React, Node.js, Express.js, MongoDB, MySQL
+- React, Node.js, Vue.js, Express.js, MongoDB, MySQL, Firebase, Supabase, PWA apps
 
 **Languages**: JavaScript, TypeScript, Java, Kotlin, Swift
 
-**Tools**: Android Studio, Xcode, VS Code, Postman, Firebase
-
-### 📱 Published Apps
-
-This basic apps are published college/initial days just to explore the process of app publishing.
-
-**[Google Play](https://play.google.com/store/apps/dev?id=5651179935012434288&hl=en_US)**
-
-**[Amazon Appstore](https://www.amazon.com/Apps-Games-Karthik-N-G/s?rh=n%3A2350149011%2Cp_4%3AKarthik+N+G)**
+**Tools**: Android Studio, Xcode, VS Code, Postman
 
 ### 📫 Connect with Me
 
